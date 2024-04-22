@@ -1,5 +1,5 @@
 /**
-* @autor Mr.Ajay Tokala
+* @autor Mr.Ajay 
 * @name Hangman - with auto name generator and respective case-sensitive rules
 */
 #include <stdio.h>
