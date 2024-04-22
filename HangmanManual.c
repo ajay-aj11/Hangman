@@ -1,5 +1,5 @@
 /**
-* @autor Mr.Ajay Tokala
+* @autor Mr.Ajay
 * @name Hangman - With manual addition of keywords without rule conditions
 */
 
